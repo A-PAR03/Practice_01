@@ -1,2 +1,5 @@
 this is jayesh
-this is aditya
+<<<<<<< HEAD
+=======
+welcome to cloudblitz
+>>>>>>> e14b37cf8f17d64ca4accb714c49fb35fe492084
